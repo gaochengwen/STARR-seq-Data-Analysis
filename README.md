@@ -1,4 +1,5 @@
 STARR-seq Data Analysis Pipeline
+
 This repository contains a set of scripts designed to process, analyze, and visualize data related to variant analysis. The pipeline includes steps for filtering data, extracting alleles, performing quality control (QC), and conducting downstream analyses like MPRA (Massively Parallel Reporter Assay).
 
 Prerequisites
